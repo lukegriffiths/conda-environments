@@ -1,0 +1,16 @@
+name: imgenv
+channels:
+- defaults
+- conda-forge
+dependencies:
+- matplotlib
+- jupyter
+- numpy
+- seaborn
+- pandas
+- Pillow
+- scipy
+- scikit-image
+- keras
+- scikit-learn
+- opencv
