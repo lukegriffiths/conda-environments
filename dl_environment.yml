@@ -14,3 +14,4 @@ dependencies:
 - keras
 - scikit-learn
 - opencv
+- tensorflow
