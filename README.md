@@ -7,3 +7,6 @@ $ source activate {env_name}
 
 Or in same folder
 $ conda env create -f environment.yml
+
+To remove an enviromnent
+$ conda remove --name myenv --all
