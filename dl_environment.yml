@@ -1,4 +1,4 @@
-name: imgenv
+name: dlenv
 channels:
 - defaults
 - conda-forge
